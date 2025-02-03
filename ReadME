@@ -1,0 +1,56 @@
+# ODI World Cup 2023 Analysis - README
+
+## 📌 Overview
+This project provides an in-depth analysis of the **ODI World Cup 2023**, focusing on:
+- **Batting & Bowling Performances**
+- **Team-Level Insights**
+- **Player PlayStyles**
+
+The analysis is based on data extracted from multiple datasets covering individual and team performances.
+
+---
+
+## 🏏 Key Findings
+
+### 🔹 Batting Insights
+- **Top Scorer:** Virat Kohli (765 runs) dominated the tournament.
+- **Most Sixes:** Rohit Sharma smashed the most sixes.
+- **Fastest Hundred:** Glenn Maxwell recorded the quickest hundred.
+- **Best Batting Averages:** Virat Kohli maintained an average above 80.
+
+### 🔹 Bowling Insights
+- **Most Wickets:** Mohammed Shami topped the charts.
+- **Best Economy:** Jasprit Bumrah restricted runs most efficiently.
+- **Best Match Figures:** Shami's 7-wicket haul was the best performance.
+
+### 🔹 Team & Match Trends
+- **India and Australia** were the most dominant teams.
+- **Ahmedabad & Mumbai** were high-scoring venues, while **Chennai & Lucknow** favored bowlers.
+
+
+---
+
+## 📊 Visualizations & Reports
+The notebook contains **interactive visualizations** created using `Plotly` and `Seaborn` to showcase:
+- Batting Contributions
+- Wickets & Bowling Impact
+- Match Win Percentages 
+- Venue Performance Trends
+
+---
+
+## 🔧 Requirements
+To run the notebook, install the following Python libraries:
+
+!pip install pandas numpy matplotlib seaborn plotly nbformat
+Then, open the Jupyter Notebook and run the cells.
+
+---
+
+## 📂 Dataset
+The data used in this analysis comes from Kaggle:
+https://www.kaggle.com/datasets/enggbilalalikhan/odi-world-cup-2023-complete-dataset/data
+
+
+
+
