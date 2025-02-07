@@ -1,10 +1,10 @@
 ODI World Cup 2023 Analysis - README
 
 📌 Overview
-This project provides an in-depth analysis of the **ODI World Cup 2023**, focusing on:
-- **Batting & Bowling Performances**
-- **Team-Level Insights**
-- **Player PlayStyles**
+This project provides an in-depth analysis of the  ODI World Cup 2023 , focusing on:
+- Batting & Bowling Performances
+- Team-Level Insights
+- Player PlayStyles
 
 The analysis is based on data extracted from multiple datasets covering individual and team performances.
 
@@ -13,25 +13,25 @@ The analysis is based on data extracted from multiple datasets covering individu
 🏏 Key Findings
 
 🔹 Batting Insights
-- **Top Scorer:** Virat Kohli (765 runs) dominated the tournament.
-- **Most Sixes:** Rohit Sharma smashed the most sixes.
-- **Fastest Hundred:** Glenn Maxwell recorded the quickest hundred.
-- **Best Batting Averages:** Virat Kohli maintained an average above 80.
+- Top Scorer: Virat Kohli (765 runs) dominated the tournament.
+-  Most Sixes: Rohit Sharma smashed the most sixes.
+-  Fastest Hundred:  Glenn Maxwell recorded the quickest hundred.
+-  Best Batting Averages:  Virat Kohli maintained an average above 80.
 
 🔹 Bowling Insights
-- **Most Wickets:** Mohammed Shami topped the charts.
-- **Best Economy:** Jasprit Bumrah restricted runs most efficiently.
-- **Best Match Figures:** Shami's 7-wicket haul was the best performance.
+-  Most Wickets:  Mohammed Shami topped the charts.
+-  Best Economy:  Jasprit Bumrah restricted runs most efficiently.
+-  Best Match Figures:  Shami's 7-wicket haul was the best performance.
 
 🔹 Team & Match Trends
-- **India and Australia** were the most dominant teams.
+-  India and Australia  were the most dominant teams.
 
 
 
 ---
 
 📊 Visualizations & Reports
-The notebook contains **interactive visualizations** created using `Plotly` and `Seaborn` to showcase:
+The notebook contains  interactive visualizations  created using `Plotly` and `Seaborn` to showcase:
 - Batting Contributions
 - Wickets & Bowling Impact
 - Match Win Percentages 
